@@ -103,8 +103,8 @@ env = UnityEnvironment(file_name="Tennis.app")
 
 8. Run the agent
 
-   To start training, simply open TennisPre.ipynb in Jupyter Notebook and follow the instructions given there.
-   You can either train the agent: this takes about 3 hours to reach a score of 0.5, however the training being stochastic it may take much longer. You can skip the training and watch a trained agent using the provided trained weights.
+   To start training, simply open DDPG.ipynb in Jupyter Notebook and follow the instructions given there.
+   You can either train the agent: this takes about 30 minutes to reach a score of 0.5. You can skip the training and watch a trained agent using the provided trained weights.
 
 
 
